@@ -1,6 +1,3 @@
-
-### Paste this entire file:
-
 ```markdown
 # Data Pipeline Runbook
 
