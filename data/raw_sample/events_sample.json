@@ -1,1 +1,21 @@
+[
+  {
+    "event_id": "e1",
+    "event_type": "purchase",
+    "user_id": "u101",
+    "product_id": "p55",
+    "amount": 49.99,
+    "currency": "USD",
+    "event_ts": "2025-12-26T20:00:00Z"
+  },
+  {
+    "event_id": "e2",
+    "event_type": "page_view",
+    "user_id": "u102",
+    "product_id": "p18",
+    "amount": 0.0,
+    "currency": "USD",
+    "event_ts": "2025-12-26T20:02:30Z"
+  }
+]
 
